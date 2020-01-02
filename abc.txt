@@ -6,3 +6,4 @@ git is a distributed version control system
 git is free software distributed under the gpl
 git has a mutable index called stage
 git tracks changes of files
+https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440
